@@ -6,7 +6,7 @@ addons:
     token: "271e369a8ec255c44050e7b4ad8764a6479b3e32"
 
 jdk:
-  -openjdk8
+  -openjdk11
 
 script:
   - ant build
